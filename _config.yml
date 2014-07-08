@@ -2,7 +2,7 @@
 title: Falmouth University UI Library
 email: aaron.marr@falmouth.ac.uk
 description: "A UI library for creating beautiful Web app interfaces."
-baseurl: ""
+baseurl: "http://ucfalmouth.github.io/fu-ui"
 url: "http://ucfalmouth.github.io/fu-ui"
 twitter_username: jekyllrb
 github_username:  jekyll
