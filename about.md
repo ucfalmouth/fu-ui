@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## A decoupled semantic framework
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+When using frameworks such as Twitter Bootstrap or Zurb Foundation, [markup tends to be highly verbose and is coupled tightly to the framework itself.](https://coderwall.com/p/wixovg).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This has led to many developers to turn to SASS as a means to decouple the markup, and to use semantic naming conventions such as BEM, 
+[allowing for more maintainable and readable css](http://www.integralist.co.uk/posts/maintainable-css-with-bem/).
+
+However, it is known that using SASS to extend Bootstrap framework classes, for example, can lead to unnecesarily large files css files, as explained in [this article](http://thesassway.com/editorial/sass-doesnt-create-bad-code-bad-coders-do).
+
+This framework will be a fresh approach to sass frameworks by providing silent sass classes and mixins, together with a focus on BEM naming conventions to bring the best of both css frameworks and future maintainability.
