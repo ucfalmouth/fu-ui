@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Why are we doing it? Mailchimp's UX team explain [why they do it](https://ux.mailchimp.com/patterns).
+
 ## Built upon awesome microframeworks
 
 We're not building everything from scratch just pulling together the best of whats available...
