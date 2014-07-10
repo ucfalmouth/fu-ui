@@ -1,6 +1,23 @@
 Falmouth UI Library
 ===================
 
+Issue with grunt-compass-contrib
+
+https://github.com/gruntjs/grunt-contrib-compass/issues/23
+
+need to run install gem compass -v 1.0.0.alpha.19 this also installs: 
+
+compass-1.0.0.alpha.19
+grunt-contrib-compass-0.7.2
+
+and gems:
+
+sass-3.3.5
+compass-core-1.0.0.alpha.19
+compass-import-once-1.0.4
+
+Needs to test but this is reported as a workound
+
 For further details and examples [head over to the website](http://ucfalmouth.github.io/fu-ui/)
 
 Why are we doing it? Mailchimp's UX team explain [why they do it](https://ux.mailchimp.com/patterns).
