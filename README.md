@@ -13,6 +13,8 @@ We're not building everything from scratch just pulling together the best of wha
 
 [Sassline by Jake Giltsoff](http://sassline.com/)
 
+## Whilst borrowing components from Bootstrap
+
 [Bootstrap sass](https://github.com/twbs/bootstrap-sass)
 We will probably end up creating a fork of this using silent classes to minimse code bloat, reducing technical debt via @extend and %placeholder, [see this](https://coderwall.com/p/wixovg)
 
