@@ -13,6 +13,9 @@ We're not building everything from scratch just pulling together the best of wha
 
 [Sassline by Jake Giltsoff](http://sassline.com/)
 
+[Bootstrap sass](https://github.com/twbs/bootstrap-sass)
+We will probably end up creating a fork of this using silent classes to minimse code bloat, reducing technical debt via @extend and %placeholder, [see this](https://coderwall.com/p/wixovg)
+
 ## A decoupled semantic framework
 
 When using frameworks such as Twitter Bootstrap or Zurb Foundation, [markup tends to be highly verbose and is coupled tightly to the framework itself.](https://coderwall.com/p/wixovg).
