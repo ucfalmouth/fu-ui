@@ -4,6 +4,10 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
 
+    sass: {
+      require: "globbing"
+    },
+
     // Set up our watch task to watch changes in scss and js files
     watch: {
       compass: {
@@ -21,6 +25,8 @@ module.exports = function(grunt) {
 
     // set up compass
     compass: {
+
+      sourcemap: true,
 
       // set up the compass:dev task
       dev: {
@@ -61,8 +67,11 @@ module.exports = function(grunt) {
   // you will need to install these node modules
   // eg $ npm install grunt-contrib-watch
   grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-contrib-compass');
   grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.loadNpmTasks('grunt-contrib-sass');
+ 
+  // npm install grunt-contrib-compass@0.7.2
+  grunt.loadNpmTasks('grunt-contrib-compass');
 
   // set up the default tasks ie. $ grunt
   grunt.registerTask('default', ['watch', 'compass:dev']);
