@@ -1,6 +1,8 @@
 Falmouth UI Library
 ===================
 
+sassline requires sass globbing
+
 Issue with grunt-compass-contrib
 
 https://github.com/gruntjs/grunt-contrib-compass/issues/23
