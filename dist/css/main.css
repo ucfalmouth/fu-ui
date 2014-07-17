@@ -130,7 +130,7 @@ a {
   -ms-transition: color .1s, background-color .1s;
   -o-transition: color .1s, background-color .1s;
   transition: color .1s, background-color .1s;
-  color: #D52836;
+  color: #d52836;
   text-decoration: none;
 }
 /* line 30, ../../vendor/sassline/assets/sass/base/_typography.scss */
@@ -200,7 +200,7 @@ a:hover, a:active, a:focus {
   -ms-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
   -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
   font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-  color: #2E2E2E;
+  color: #2e2e2e;
   font-family: Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -529,7 +529,7 @@ a:hover, a:active, a:focus {
 }
 /* line 149, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset .caption {
-  color: #7E7E7E;
+  color: #7e7e7e;
   margin-bottom: 1.34666rem;
   padding-top: 0.65334rem;
 }
@@ -569,7 +569,7 @@ a:hover, a:active, a:focus {
 .typeset blockquote p {
   font-style: italic;
   padding-left: 1rem;
-  border-left: 0.1rem solid #D52836;
+  border-left: 0.1rem solid #d52836;
   margin-bottom: 1.87999rem;
   padding-bottom: 0.56001rem;
 }
@@ -622,8 +622,8 @@ a:hover, a:active, a:focus {
 }
 /* line 211, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset code, .typeset pre {
-  background-color: #29323A;
-  color: #FFFFFF;
+  background-color: #29323a;
+  color: white;
   font-family: Menlo, monospace;
 }
 /* line 217, ../../vendor/sassline/assets/sass/base/_typography.scss */
@@ -701,12 +701,12 @@ a:hover, a:active, a:focus {
 /* --------------------------------------- */
 /* line 4, ../../vendor/sassline/assets/sass/modules/_footer.scss */
 .global-footer {
-  background: #29323A;
+  background: #29323a;
   border-top: 0.1rem solid #14181c;
 }
 /* line 8, ../../vendor/sassline/assets/sass/modules/_footer.scss */
 .global-footer p {
-  color: #FFFFFF;
+  color: white;
   font-family: Helvetica, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -744,14 +744,14 @@ a:hover, a:active, a:focus {
 /* --------------------------------------- */
 /* line 4, ../../vendor/sassline/assets/sass/modules/_globals.scss */
 body {
-  background-color: #29323A;
+  background-color: #29323a;
   color: #494949;
   overflow-x: hidden;
 }
 
 /* line 10, ../../vendor/sassline/assets/sass/modules/_globals.scss */
 section {
-  background-color: #FCFCFC;
+  background-color: #fcfcfc;
   padding: 4rem 0;
 }
 
@@ -816,13 +816,13 @@ img {
 /* --------------------------------------- */
 /* line 4, ../../vendor/sassline/assets/sass/modules/_header.scss */
 .global-header {
-  background-color: #FCFCFC;
+  background-color: #fcfcfc;
   font-size: 0;
 }
 @media screen and (min-width: 40em) {
   /* line 4, ../../vendor/sassline/assets/sass/modules/_header.scss */
   .global-header {
-    background-color: #29323A;
+    background-color: #29323a;
   }
 }
 /* line 12, ../../vendor/sassline/assets/sass/modules/_header.scss */
@@ -917,8 +917,8 @@ img {
 .main-nav .main-nav__list {
   width: 165px;
   margin-left: 3%;
-  background-color: #D52836;
-  border-top: 0.1rem solid #FFFFFF;
+  background-color: #d52836;
+  border-top: 0.1rem solid white;
   text-align: center;
 }
 @media screen and (min-width: 40em) {
@@ -966,8 +966,8 @@ img {
 .main-nav li a, .main-nav li span {
   display: block;
   padding: 10px 3%;
-  color: #FFFFFF;
-  border-bottom: 0.1rem solid #FFFFFF;
+  color: white;
+  border-bottom: 0.1rem solid white;
   cursor: pointer;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -989,7 +989,7 @@ img {
   }
   /* line 113, ../../vendor/sassline/assets/sass/modules/_nav.scss */
   .main-nav li a, .main-nav li span {
-    color: #FFFFFF;
+    color: white;
     border: 0;
     display: inline;
     padding: 0;
@@ -997,7 +997,7 @@ img {
   /* line 119, ../../vendor/sassline/assets/sass/modules/_nav.scss */
   .main-nav li a:hover, .main-nav li a:active, .main-nav li a:focus, .main-nav li span:hover, .main-nav li span:active, .main-nav li span:focus {
     background-color: transparent;
-    color: #D52836;
+    color: #d52836;
   }
 }
 
