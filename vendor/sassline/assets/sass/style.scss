@@ -9,7 +9,10 @@
 @import "base/typography";
 
 // Import all SCSS modules with Sass globbing.
-@import "modules/*";
+@import "modules/_footer.scss";
+@import "modules/_globals.scss";
+@import "modules/_header.scss";
+@import "modules/_nav.scss";
 
 // Demo baseline grid styles
 #baseline.show-grid {
