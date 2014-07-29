@@ -60,7 +60,7 @@ a {
     -ms-font-feature-settings: 'kern' 1, 'onum' 1, 'liga' 1;
     -o-font-feature-settings: 'kern' 1, 'onum' 1, 'liga' 1;
     font-feature-settings: 'kern' 1, 'onum' 1, 'liga' 1;
-    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+    @include baseline($fontsize: eta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
   }
 
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
@@ -93,17 +93,17 @@ a {
 
   // Heading level 4.
   h4, .delta {
-    @include sassline(delta, $headingtype, 2, 0, all);
+    @include sassline(delta, $headingtype, 2, 1, all);
   }
 
   // Heading level 5.
   h5, .epsilon {
-    @include sassline(epsilon, $headingtype, 2, 0, all);
+    @include sassline(epsilon, $headingtype, 2, 1, all);
   }
 
   // Heading level 6.
   h6, .zeta {
-    @include sassline(zeta, $headingtype, 2, 0, all);
+    @include sassline(zeta, $headingtype, 2, 1, all);
   }
 
   // Lists.

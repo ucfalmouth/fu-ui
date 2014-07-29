@@ -68,58 +68,58 @@ html {
 @media screen and (min-width: 40em) {
   /* line 5, ../../vendor/sassline/assets/sass/base/_typography.scss */
   html {
-    font-size: 87.5%;
+    font-size: 75%;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 5, ../../vendor/sassline/assets/sass/base/_typography.scss */
   html {
-    font-size: 93.75%;
+    font-size: 75%;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 5, ../../vendor/sassline/assets/sass/base/_typography.scss */
   html {
-    font-size: 106.25%;
+    font-size: 81.25%;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 5, ../../vendor/sassline/assets/sass/base/_typography.scss */
   html {
-    font-size: 112.5%;
+    font-size: 87.5%;
   }
 }
 
 /* line 12, ../../vendor/sassline/assets/sass/base/_typography.scss */
 body {
   line-height: 2rem;
-  font-family: Georgia, serif;
+  font-family: Alright Sans, sans-serif;
   font-style: normal;
-  font-weight: 400;
-  font-size: 1.33333rem;
+  font-weight: 300;
+  font-size: 1.16667rem;
 }
 @media screen and (min-width: 40em) {
   /* line 12, ../../vendor/sassline/assets/sass/base/_typography.scss */
   body {
-    font-size: 1.21429rem;
+    font-size: 1.16667rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 12, ../../vendor/sassline/assets/sass/base/_typography.scss */
   body {
-    font-size: 1.2rem;
+    font-size: 1.16667rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 12, ../../vendor/sassline/assets/sass/base/_typography.scss */
   body {
-    font-size: 1.17647rem;
+    font-size: 1.23077rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 12, ../../vendor/sassline/assets/sass/base/_typography.scss */
   body {
-    font-size: 1.22222rem;
+    font-size: 1.21429rem;
   }
 }
 
@@ -162,35 +162,35 @@ a:hover, a:active, a:focus {
   -ms-font-feature-settings: 'kern' 1, 'onum' 1, 'liga' 1;
   -o-font-feature-settings: 'kern' 1, 'onum' 1, 'liga' 1;
   font-feature-settings: 'kern' 1, 'onum' 1, 'liga' 1;
-  margin-bottom: 1.43999rem;
-  padding-top: 0.56001rem;
+  margin-bottom: 1.25624rem;
+  padding-top: 0.74376rem;
 }
 @media screen and (min-width: 40em) {
   /* line 57, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset p {
-    margin-bottom: 1.4007rem;
-    padding-top: 0.5993rem;
+    margin-bottom: 1.25624rem;
+    padding-top: 0.74376rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 57, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset p {
-    margin-bottom: 1.39599rem;
-    padding-top: 0.60401rem;
+    margin-bottom: 1.25624rem;
+    padding-top: 0.74376rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 57, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset p {
-    margin-bottom: 1.38823rem;
-    padding-top: 0.61177rem;
+    margin-bottom: 1.32499rem;
+    padding-top: 0.67501rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 57, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset p {
-    margin-bottom: 1.40332rem;
-    padding-top: 0.59668rem;
+    margin-bottom: 1.31428rem;
+    padding-top: 0.68572rem;
   }
 }
 /* line 67, ../../vendor/sassline/assets/sass/base/_typography.scss */
@@ -201,272 +201,272 @@ a:hover, a:active, a:focus {
   -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
   font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
   color: #2e2e2e;
-  font-family: Helvetica, sans-serif;
+  font-family: Alright Sans, sans-serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 /* line 80, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset h1, .typeset .alpha {
   line-height: 3rem;
-  font-size: 2.33333rem;
-  margin-bottom: 0.25832rem;
-  padding-top: 0.74168rem;
+  font-size: 2rem;
+  margin-bottom: 0.15999rem;
+  padding-top: 0.84001rem;
 }
 @media screen and (min-width: 40em) {
   /* line 80, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h1, .typeset .alpha {
-    font-size: 2.14286rem;
-    margin-bottom: 0.19642rem;
-    padding-top: 0.80358rem;
+    font-size: 2rem;
+    margin-bottom: 0.15999rem;
+    padding-top: 0.84001rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 80, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h1, .typeset .alpha {
-    font-size: 2.13333rem;
-    margin-bottom: 0.19332rem;
-    padding-top: 0.80668rem;
+    font-size: 2rem;
+    margin-bottom: 0.15999rem;
+    padding-top: 0.84001rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 80, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h1, .typeset .alpha {
-    font-size: 2.35294rem;
-    margin-bottom: 0.2647rem;
-    padding-top: 0.7353rem;
+    font-size: 2.66154rem;
+    margin-bottom: 0.3783rem;
+    padding-top: 0.6217rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 80, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h1, .typeset .alpha {
-    font-size: 2.77778rem;
-    margin-bottom: 0.40277rem;
-    padding-top: 0.59723rem;
+    font-size: 2.82857rem;
+    margin-bottom: 0.43342rem;
+    padding-top: 0.56658rem;
   }
 }
 /* line 85, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset h2, .typeset .beta {
   line-height: 3rem;
-  font-size: 2.08333rem;
-  margin-bottom: 0.17707rem;
-  padding-top: 0.82293rem;
+  font-size: 1.825rem;
+  margin-bottom: 0.10224rem;
+  padding-top: 0.89776rem;
 }
 @media screen and (min-width: 40em) {
   /* line 85, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h2, .typeset .beta {
-    font-size: 1.9rem;
-    margin-bottom: 0.11749rem;
-    padding-top: 0.88251rem;
+    font-size: 1.825rem;
+    margin-bottom: 0.10224rem;
+    padding-top: 0.89776rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 85, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h2, .typeset .beta {
-    font-size: 1.87333rem;
-    margin-bottom: 0.10882rem;
-    padding-top: 0.89118rem;
+    font-size: 1.825rem;
+    margin-bottom: 0.10224rem;
+    padding-top: 0.89776rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 85, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h2, .typeset .beta {
-    font-size: 2.08824rem;
-    margin-bottom: 0.17867rem;
-    padding-top: 0.82133rem;
+    font-size: 2.18462rem;
+    margin-bottom: 0.22091rem;
+    padding-top: 0.77909rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 85, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h2, .typeset .beta {
-    font-size: 2.43889rem;
-    margin-bottom: 0.29263rem;
-    padding-top: 0.70737rem;
+    font-size: 2.42143rem;
+    margin-bottom: 0.29906rem;
+    padding-top: 0.70094rem;
   }
 }
 /* line 90, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset h3, .typeset .gamma {
   line-height: 3rem;
-  font-size: 1.86667rem;
-  margin-bottom: 0.10666rem;
-  padding-top: 0.89334rem;
+  font-size: 1.6rem;
+  margin-bottom: 0.02799rem;
+  padding-top: 0.97201rem;
 }
 @media screen and (min-width: 40em) {
   /* line 90, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h3, .typeset .gamma {
-    font-size: 1.71429rem;
-    margin-bottom: 0.05713rem;
-    padding-top: 0.94287rem;
+    font-size: 1.6rem;
+    margin-bottom: 0.02799rem;
+    padding-top: 0.97201rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 90, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h3, .typeset .gamma {
-    font-size: 1.70667rem;
-    margin-bottom: 0.05466rem;
-    padding-top: 0.94534rem;
+    font-size: 1.6rem;
+    margin-bottom: 0.02799rem;
+    padding-top: 0.97201rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 90, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h3, .typeset .gamma {
-    font-size: 1.76471rem;
-    margin-bottom: 0.07352rem;
-    padding-top: 0.92648rem;
+    font-size: 2rem;
+    margin-bottom: 0.15999rem;
+    padding-top: 0.84001rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 90, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h3, .typeset .gamma {
-    font-size: 1.96111rem;
-    margin-bottom: 0.13735rem;
-    padding-top: 0.86265rem;
+    font-size: 2rem;
+    margin-bottom: 0.15999rem;
+    padding-top: 0.84001rem;
   }
 }
 /* line 95, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset h4, .typeset .delta {
-  font-size: 1.66667rem;
-  margin-bottom: -0.45834rem;
-  padding-top: 0.45834rem;
+  font-size: 1.45833rem;
+  margin-bottom: 0.48124rem;
+  padding-top: 0.51876rem;
 }
 @media screen and (min-width: 40em) {
   /* line 95, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h4, .typeset .delta {
-    font-size: 1.52143rem;
-    margin-bottom: -0.50555rem;
-    padding-top: 0.50555rem;
+    font-size: 1.45833rem;
+    margin-bottom: 0.48124rem;
+    padding-top: 0.51876rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 95, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h4, .typeset .delta {
-    font-size: 1.5rem;
-    margin-bottom: -0.51251rem;
-    padding-top: 0.51251rem;
+    font-size: 1.45833rem;
+    margin-bottom: 0.48124rem;
+    padding-top: 0.51876rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 95, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h4, .typeset .delta {
-    font-size: 1.57059rem;
-    margin-bottom: -0.48957rem;
-    padding-top: 0.48957rem;
+    font-size: 1.63846rem;
+    margin-bottom: 0.54068rem;
+    padding-top: 0.45932rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 95, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h4, .typeset .delta {
-    font-size: 1.72778rem;
-    margin-bottom: -0.43848rem;
-    padding-top: 0.43848rem;
+    font-size: 1.71429rem;
+    margin-bottom: 0.5657rem;
+    padding-top: 0.4343rem;
   }
 }
 /* line 100, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset h5, .typeset .epsilon {
-  font-size: 1.49167rem;
-  margin-bottom: -0.51522rem;
-  padding-top: 0.51522rem;
+  font-size: 1.275rem;
+  margin-bottom: 0.42074rem;
+  padding-top: 0.57926rem;
 }
 @media screen and (min-width: 40em) {
   /* line 100, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h5, .typeset .epsilon {
-    font-size: 1.37143rem;
-    margin-bottom: -0.5543rem;
-    padding-top: 0.5543rem;
+    font-size: 1.275rem;
+    margin-bottom: 0.42074rem;
+    padding-top: 0.57926rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 100, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h5, .typeset .epsilon {
-    font-size: 1.36667rem;
-    margin-bottom: -0.55584rem;
-    padding-top: 0.55584rem;
+    font-size: 1.275rem;
+    margin-bottom: 0.42074rem;
+    padding-top: 0.57926rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 100, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h5, .typeset .epsilon {
-    font-size: 1.32353rem;
-    margin-bottom: -0.56986rem;
-    padding-top: 0.56986rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.49499rem;
+    padding-top: 0.50501rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 100, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h5, .typeset .epsilon {
-    font-size: 1.38889rem;
-    margin-bottom: -0.54862rem;
-    padding-top: 0.54862rem;
+    font-size: 1.41429rem;
+    margin-bottom: 0.4667rem;
+    padding-top: 0.5333rem;
   }
 }
 /* line 105, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset h6, .typeset .zeta {
-  font-size: 1.33333rem;
-  margin-bottom: -0.56668rem;
-  padding-top: 0.56668rem;
+  font-size: 1.16667rem;
+  margin-bottom: 0.38499rem;
+  padding-top: 0.61501rem;
 }
 @media screen and (min-width: 40em) {
   /* line 105, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h6, .typeset .zeta {
-    font-size: 1.21429rem;
-    margin-bottom: -0.60537rem;
-    padding-top: 0.60537rem;
+    font-size: 1.16667rem;
+    margin-bottom: 0.38499rem;
+    padding-top: 0.61501rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 105, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h6, .typeset .zeta {
-    font-size: 1.2rem;
-    margin-bottom: -0.61001rem;
-    padding-top: 0.61001rem;
+    font-size: 1.16667rem;
+    margin-bottom: 0.38499rem;
+    padding-top: 0.61501rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 105, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h6, .typeset .zeta {
-    font-size: 1.17647rem;
-    margin-bottom: -0.61766rem;
-    padding-top: 0.61766rem;
+    font-size: 1.23077rem;
+    margin-bottom: 0.40614rem;
+    padding-top: 0.59386rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 105, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset h6, .typeset .zeta {
-    font-size: 1.22222rem;
-    margin-bottom: -0.60279rem;
-    padding-top: 0.60279rem;
+    font-size: 1.21429rem;
+    margin-bottom: 0.4007rem;
+    padding-top: 0.5993rem;
   }
 }
 /* line 110, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset ul, .typeset ol {
-  margin-bottom: 1.43999rem;
-  padding-top: 0.56001rem;
+  margin-bottom: 1.29166rem;
+  padding-top: 0.70834rem;
 }
 @media screen and (min-width: 40em) {
   /* line 110, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset ul, .typeset ol {
-    margin-bottom: 1.4007rem;
-    padding-top: 0.5993rem;
+    margin-bottom: 1.29166rem;
+    padding-top: 0.70834rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 110, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset ul, .typeset ol {
-    margin-bottom: 1.39599rem;
-    padding-top: 0.60401rem;
+    margin-bottom: 1.29166rem;
+    padding-top: 0.70834rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 110, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset ul, .typeset ol {
-    margin-bottom: 1.38823rem;
-    padding-top: 0.61177rem;
+    margin-bottom: 1.30768rem;
+    padding-top: 0.69232rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 110, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset ul, .typeset ol {
-    margin-bottom: 1.40332rem;
-    padding-top: 0.59668rem;
+    margin-bottom: 1.30356rem;
+    padding-top: 0.69644rem;
   }
 }
 /* line 113, ../../vendor/sassline/assets/sass/base/_typography.scss */
@@ -486,7 +486,7 @@ a:hover, a:active, a:focus {
 }
 /* line 128, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset b, .typeset strong, .typeset .bold {
-  font-weight: 700;
+  font-weight: 400;
 }
 /* line 133, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset em, .typeset i, .typeset .italic {
@@ -494,33 +494,33 @@ a:hover, a:active, a:focus {
 }
 /* line 138, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset small, .typeset .caption {
-  font-family: Helvetica, sans-serif;
+  font-family: Alright Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 1.06667rem;
+  font-size: 0.93333rem;
 }
 @media screen and (min-width: 40em) {
   /* line 138, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset small, .typeset .caption {
-    font-size: 0.97143rem;
+    font-size: 0.93333rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 138, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset small, .typeset .caption {
-    font-size: 0.96rem;
+    font-size: 0.93333rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 138, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset small, .typeset .caption {
-    font-size: 0.88235rem;
+    font-size: 1.15385rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 138, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset small, .typeset .caption {
-    font-size: 0.86667rem;
+    font-size: 1.11429rem;
   }
 }
 /* line 145, ../../vendor/sassline/assets/sass/base/_typography.scss */
@@ -530,35 +530,35 @@ a:hover, a:active, a:focus {
 /* line 149, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset .caption {
   color: #7e7e7e;
-  margin-bottom: 1.34666rem;
-  padding-top: 0.65334rem;
+  margin-bottom: 1.30799rem;
+  padding-top: 0.69201rem;
 }
 @media screen and (min-width: 40em) {
   /* line 149, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset .caption {
-    margin-bottom: 1.3157rem;
-    padding-top: 0.6843rem;
+    margin-bottom: 1.30799rem;
+    padding-top: 0.69201rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 149, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset .caption {
-    margin-bottom: 1.31199rem;
-    padding-top: 0.68801rem;
+    margin-bottom: 1.30799rem;
+    padding-top: 0.69201rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 149, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset .caption {
-    margin-bottom: 1.28675rem;
-    padding-top: 0.71325rem;
+    margin-bottom: 1.38076rem;
+    padding-top: 0.61924rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 149, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset .caption {
-    margin-bottom: 1.28166rem;
-    padding-top: 0.71834rem;
+    margin-bottom: 1.3677rem;
+    padding-top: 0.6323rem;
   }
 }
 /* line 155, ../../vendor/sassline/assets/sass/base/_typography.scss */
@@ -570,35 +570,35 @@ a:hover, a:active, a:focus {
   font-style: italic;
   padding-left: 1rem;
   border-left: 0.1rem solid #d52836;
-  margin-bottom: 1.87999rem;
-  padding-bottom: 0.56001rem;
+  margin-bottom: 1.58332rem;
+  padding-bottom: 0.70834rem;
 }
 @media screen and (min-width: 40em) {
   /* line 162, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset blockquote p {
-    margin-bottom: 1.80142rem;
-    padding-bottom: 0.5993rem;
+    margin-bottom: 1.58332rem;
+    padding-bottom: 0.70834rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 162, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset blockquote p {
-    margin-bottom: 1.79199rem;
-    padding-bottom: 0.60401rem;
+    margin-bottom: 1.58332rem;
+    padding-bottom: 0.70834rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 162, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset blockquote p {
-    margin-bottom: 1.77646rem;
-    padding-bottom: 0.61177rem;
+    margin-bottom: 1.61537rem;
+    padding-bottom: 0.69232rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 162, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset blockquote p {
-    margin-bottom: 1.80666rem;
-    padding-bottom: 0.59668rem;
+    margin-bottom: 1.60713rem;
+    padding-bottom: 0.69644rem;
   }
 }
 @media screen and (min-width: 40em) {
@@ -639,31 +639,31 @@ a:hover, a:active, a:focus {
 }
 /* line 228, ../../vendor/sassline/assets/sass/base/_typography.scss */
 .typeset code {
-  font-size: 1.06667rem;
+  font-size: 0.93333rem;
   line-height: 1rem;
 }
 @media screen and (min-width: 40em) {
   /* line 228, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset code {
-    font-size: 0.97143rem;
+    font-size: 0.93333rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 228, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset code {
-    font-size: 0.96rem;
+    font-size: 0.93333rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 228, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset code {
-    font-size: 0.88235rem;
+    font-size: 1.15385rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 228, ../../vendor/sassline/assets/sass/base/_typography.scss */
   .typeset code {
-    font-size: 0.86667rem;
+    font-size: 1.11429rem;
   }
 }
 /* line 234, ../../vendor/sassline/assets/sass/base/_typography.scss */
@@ -707,36 +707,36 @@ a:hover, a:active, a:focus {
 /* line 8, ../../vendor/sassline/assets/sass/modules/_footer.scss */
 .global-footer p {
   color: white;
-  font-family: Helvetica, sans-serif;
+  font-family: Alright Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
   text-align: center;
   padding: 1rem 0;
   margin: 0;
-  font-size: 1.19167rem;
+  font-size: 1.025rem;
 }
 @media screen and (min-width: 40em) {
   /* line 8, ../../vendor/sassline/assets/sass/modules/_footer.scss */
   .global-footer p {
-    font-size: 1.09286rem;
+    font-size: 1.025rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 8, ../../vendor/sassline/assets/sass/modules/_footer.scss */
   .global-footer p {
-    font-size: 1.08667rem;
+    font-size: 1.025rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 8, ../../vendor/sassline/assets/sass/modules/_footer.scss */
   .global-footer p {
-    font-size: 0.99412rem;
+    font-size: 1.3rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 8, ../../vendor/sassline/assets/sass/modules/_footer.scss */
   .global-footer p {
-    font-size: 0.97778rem;
+    font-size: 1.25714rem;
   }
 }
 
@@ -774,25 +774,25 @@ section {
 @media screen and (min-width: 40em) {
   /* line 15, ../../vendor/sassline/assets/sass/modules/_globals.scss */
   .container {
-    max-width: 39.28571rem;
+    max-width: 45.83333rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 15, ../../vendor/sassline/assets/sass/modules/_globals.scss */
   .container {
-    max-width: 40rem;
+    max-width: 50rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 15, ../../vendor/sassline/assets/sass/modules/_globals.scss */
   .container {
-    max-width: 40rem;
+    max-width: 52.30769rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 15, ../../vendor/sassline/assets/sass/modules/_globals.scss */
   .container {
-    max-width: 41.66667rem;
+    max-width: 53.57143rem;
   }
 }
 
@@ -933,7 +933,7 @@ img {
 }
 /* line 84, ../../vendor/sassline/assets/sass/modules/_nav.scss */
 .main-nav li {
-  font-family: Helvetica, sans-serif;
+  font-family: Alright Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 1.33333rem;
@@ -941,25 +941,25 @@ img {
 @media screen and (min-width: 40em) {
   /* line 84, ../../vendor/sassline/assets/sass/modules/_nav.scss */
   .main-nav li {
-    font-size: 1.14286rem;
+    font-size: 1.33333rem;
   }
 }
 @media screen and (min-width: 50em) {
   /* line 84, ../../vendor/sassline/assets/sass/modules/_nav.scss */
   .main-nav li {
-    font-size: 1.06667rem;
+    font-size: 1.33333rem;
   }
 }
 @media screen and (min-width: 64em) {
   /* line 84, ../../vendor/sassline/assets/sass/modules/_nav.scss */
   .main-nav li {
-    font-size: 0.94118rem;
+    font-size: 1.23077rem;
   }
 }
 @media screen and (min-width: 100em) {
   /* line 84, ../../vendor/sassline/assets/sass/modules/_nav.scss */
   .main-nav li {
-    font-size: 0.88889rem;
+    font-size: 1.14286rem;
   }
 }
 /* line 90, ../../vendor/sassline/assets/sass/modules/_nav.scss */
